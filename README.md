@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ingu kang</h1>
+https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=Welcome%20to%20%20my%20git%20hub&textBg=false&reversal=false&animation=twinkling&fontAlign=50&fontSize=60&descAlignY=50
 <h3 align="center">I will become a developer who makes pipe dreams a reality.</h3>
 
 - 📫 How to reach me **dzface031@naver.com**

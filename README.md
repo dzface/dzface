@@ -1,7 +1,7 @@
 ![N|Solid](https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&text=Welcome%20to%20%20my%20git%20hub&textBg=false&reversal=false&animation=twinkling&fontAlign=50&fontSize=60&descAlignY=50)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzface&show_icons=true&theme=vue)
-- 📫 How to reach me **dzface031@naver.com**
+- 📫 How to reach me **dzface031@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGL97eSb3s/hB_P7snvvrRpyQM6WkcACA/edit](https://www.canva.com/design/DAGL97eSb3s/hB_P7snvvrRpyQM6WkcACA/edit)
 
